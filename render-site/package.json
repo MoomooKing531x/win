@@ -1,9 +1,0 @@
-{
-  "name": "pushup-fight",
-  "version": "1.0.0",
-  "private": true,
-  "main": "server/index.js",
-  "scripts": { "start": "node server/index.js" },
-  "dependencies": { "ws": "^8.18.0" },
-  "engines": { "node": ">=18" }
-}
